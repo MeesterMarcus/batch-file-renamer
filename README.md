@@ -1,7 +1,7 @@
 # Batch Image Files Renamer
 
 ## About
-This program is primarily used rename multiple files in a directory. Can be handy when you want to copy over files to another directory that contains the same filenames.
+This program is primarily used to rename multiple files in a directory. Can be handy when you want to copy over files to another directory that contains the same filenames.
 
 ## How to use
 
